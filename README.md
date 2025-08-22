@@ -1,3 +1,1 @@
-Name: Simple Mad Libs Game
-Purpose: Entertainment
-Concepts Used: Variables and Print
+This is my first project! It is a game where you enter random words, and it will make a story for you! The story consists of only one because it is my first project. I still have little knowledge about programming; the next time, it will be better!
